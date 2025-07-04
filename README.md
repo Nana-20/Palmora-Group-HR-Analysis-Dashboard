@@ -57,9 +57,10 @@ All visuals were created in **Power BI** and exported for preview. Below are key
 - Bonus allocation based on ratings varies significantly across the company
 - Total payout (salary + bonus) was highest in [Kaduna]
 
-## Download
+## 👩‍💻 Author
 
-📄 Download the full Power BI file here:  
+**Naomi Ariyo**   
+
 
 
 
